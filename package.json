@@ -1,0 +1,25 @@
+{
+  "name": "myagent",
+  "version": "1.0.0",
+  "description": "The agent generator & controller written in node.js",
+  "main": "myagent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNSSPsd/MyAgent.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "LNSSPsd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LNSSPsd/MyAgent/issues"
+  },
+  "homepage": "https://github.com/LNSSPsd/MyAgent#readme",
+  "dependencies": {
+    "ws": "^5.2.1"
+  }
+}
